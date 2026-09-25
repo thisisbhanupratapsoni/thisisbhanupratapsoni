@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm a Full-Stack Developer 👋
 
-<!--
-**thisisbhanupratapsoni/thisisbhanupratapsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications, solve technical problems, and share what I learn.
 
-Here are some ideas to get you started:
+**What I work with**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Laravel & PHP
+* JavaScript
+* MySQL & Databases
+* REST APIs & Integrations
+* Web Applications
+* Server & Deployment
+* SEO & Automation
+
+I also work as an **Instructor**, creating tutorials and helping developers learn through practical, real-world examples.
+
+I enjoy building things, debugging difficult problems, and turning ideas into working software.
+
+**Build. Learn. Solve. Share.**
